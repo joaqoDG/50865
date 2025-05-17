@@ -1,0 +1,5 @@
+prueba "Login exitoso"
+{dado el.usuario es "admin"
+cuando el.boton contiene "login"
+entonces la.pagina debe ["home", "dashboard"]
+}
