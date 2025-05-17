@@ -1,0 +1,3 @@
+prueba "Falla sin salto" 
+{dad usuario.nombre parece "admin"
+}
