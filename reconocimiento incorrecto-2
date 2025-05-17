@@ -1,0 +1,3 @@
+prueba "Error en objeto y valor"
+cuando usuarioes "admin"
+entonces pagina debe bienvenida
